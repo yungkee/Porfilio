@@ -1,5 +1,6 @@
 {
-  "name": "@pfl-wsr/portfolio-frontend",
+  "packageManager": "pnpm@8.15.3",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -51,6 +52,7 @@
     "storybook": "^8",
     "tailwindcss": "^4",
     "three-stdlib": "^2.35.14",
+    "turbo": "^2.4.4",
     "typescript": "^5",
     "vite": "^6.2.2",
     "vitest": "^3"
