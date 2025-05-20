@@ -1,0 +1,46 @@
+{
+  "name": "pfl-wsr",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.15.1+sha512.1acb565e6193efbebda772702950469150cf12bcc764262e7587e71d19dc98a423dff9536e57ea44c49bdf790ff694e83c27be5faa23d67e0c033b583be4bfcf",
+  "devDependencies": {
+    "@pfl-wsr/configs": "workspace:*",
+    "@pfl-wsr/portfolio-frontend": "link:apps/portfolio/frontend",
+    "@tailwindcss/typography": "^0.5.16",
+    "jiti": "^2.4.2",
+    "turbo": "^2.4.4"
+  },
+  "resolutions": {
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "@types/node": "^20.14.10",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
+    "viem": "2.7.6",
+    "typescript": "5.8.2",
+    "@pnpm/logger": "5.2.0",
+    "eslint": "9.22.0",
+    "next": "15.2.2",
+    "@storybook/addon-essentials": "8.6.12",
+    "@storybook/addon-onboarding": "8.6.12",
+    "@storybook/blocks": "8.6.12",
+    "@storybook/experimental-addon-test": "8.6.12",
+    "@storybook/experimental-nextjs-vite": "8",
+    "@storybook/react": "8.6.12",
+    "@storybook/test": "8.6.12",
+    "storybook": "8.6.12",
+    "@hookform/resolvers": "5.0.1",
+    "react-hook-form": "7.55.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
+  }
+}
