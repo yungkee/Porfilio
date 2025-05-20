@@ -2,44 +2,20 @@ const getGithubStatsUrl = (url: string) =>
   `${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}${url}&theme=transparent&hide_border=true&title_color=00d3bb&text_color=FFFFFF&icon_color=00d3bb&text_bold=false&hide=html,javascript`;
 
 const skills = [
-  "ts",
+  "UE5",
   "react",
   "nextjs",
-  "nodejs",
-  "tailwind",
-  "redux",
-  "solidity",
-  "vue",
-  "vite",
-  "vitest",
-  "docker",
-  "prisma",
-  "yarn",
-  "html",
-  "css",
-  "less",
-  "js",
-  "pnpm",
-  "webpack",
-  "figma",
-  "ubuntu",
-  "emotion",
-  "express",
-  "github",
-  "gitlab",
-  "nginx",
-  "babel",
-  "bash",
+  "nodejs"
 ];
 
 export const about = {
-  name: "Shouren Wang",
+  name: "Igor Levdansky",
   title: "Architect of Enchantment",
   description: (
     <div>
-      I am Shouren Wang, a digital architect with{" "}
-      <span className="text-accent">5 years</span> of mastery in the arcane arts
-      of frontend development. My journey through the technological realms is
+      I am Igor Levdansky, a digital architect with{" "}
+      <span className="text-accent">5 years</span> of mastery in software and game development. 
+      My journey through the technological realms is
       anchored in the powerful spells of{" "}
       <span className="text-accent">JavaScript and TypeScript</span>, which I
       wield with precision to craft immersive digital experiences. As a master

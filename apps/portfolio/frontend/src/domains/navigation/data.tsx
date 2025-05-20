@@ -36,13 +36,13 @@ export const navigation = [
   },
   {
     label: "Github",
-    link: "https://github.com/wangshouren7?tab=repositories",
+    link: "https://github.com/igorlev91",
     icon: <Github className="size-full" />,
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/wang-shouren-a3034429a/",
+    link: "https://www.linkedin.com/in/igor-levdansky-b31936168/",
     newTab: true,
     icon: <Linkedin className="size-full" />,
   },

@@ -1,4 +1,4 @@
-# Portfolio of Shouren Wang
+# Portfolio of Igor Levdansky
 
 A modern monorepo showcasing full-stack development capabilities, featuring a portfolio website, a decentralized token exchange platform, and an NFT marketplace.
 
